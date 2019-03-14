@@ -19,7 +19,7 @@ input a integer>
 弹出栈顶两个元素，压入他们的差
 是原栈顶下面那个元素减去栈顶，以后的二元运算都一样
 
-### PUSH
+### PUSH addr
 把mem[addr]处的数值入栈
 
 ### POP
